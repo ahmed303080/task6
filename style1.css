@@ -1,0 +1,26 @@
+a{
+    color: rgb(124, 193, 40);
+background-color: blue;
+direction: rtl;
+
+padding-left: 40px;
+}
+
+a:hover{
+
+    
+    color: brown;
+}
+
+.linkwhatsapp{
+width: 200px;
+height: 50px;
+padding-top: 45px;
+
+
+}
+
+header > p {
+
+    color: pink;
+}

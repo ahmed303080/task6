@@ -1,0 +1,14 @@
+ form input{
+    border-color: rgb(128, 226, 43);
+    padding: 6px;
+    border-radius: 75px
+}
+#submit1{
+
+    background-color: rgb(205, 238, 88);
+    cursor: pointer;
+}
+
+#submit1:hover{
+    background-color: brown;
+}
